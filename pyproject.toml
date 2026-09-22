@@ -4,7 +4,7 @@ version = "0.1.0"
 description = "CaP-X: Code-as-Policies eXtended with RL for V(L)A code-as-action with simulators (LIBERO/robosuite/BEHAVIOR)."
 readme = "README.md"
 requires-python = ">=3.10, <3.13"
-license = { text = "MIT" }
+license = { file = "LICENSE" }
 authors = [
   { name = "CaP-X Authors" }
 ]
@@ -12,7 +12,7 @@ keywords = ["reinforcement-learning", "LLM", "VLM", "robotics", "VeRL", "GRPO", 
 classifiers = [
   "Programming Language :: Python :: 3",
   "Programming Language :: Python :: 3.12",
-  "License :: OSI Approved :: MIT License",
+  "License :: OSI Approved :: Apache Software License",
   "Operating System :: OS Independent",
 ]
 
