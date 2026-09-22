@@ -124,3 +124,11 @@ Reuse LIBERO-learned skills as planner context in Robosuite and on a real Franka
   year    = {2026}
 }
 ```
+
+## License
+
+The original RATs code is licensed under the [Apache License 2.0](LICENSE).
+
+Third-party code and dependencies retain their original licenses. In particular,
+`capx-baseline/` remains covered by its [MIT license](capx-baseline/LICENSE),
+and submodules under `rats/third_party/` retain their upstream licenses and notices.
